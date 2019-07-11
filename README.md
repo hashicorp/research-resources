@@ -18,6 +18,14 @@ The citation graph is for the most part acyclic. Because some publication proces
 
 The Citation Graph has been called "[one of humankind's most important intellectual achievements](https://boingboing.net/2018/04/14/open-graphs.html)" (by Dario Taraborelli (@readermeter), the Director of Research at the @Wikimedia Foundation).
 
+### Citation Graph Visualization
+
+There are a number of free tools that can visualize portions of the citation graph in different ways:
+
+* https://proto-knowledge.blogspot.com/2015/02/tools-to-visualize-connections-between.html
+
+They are, however, in various states of disrepair, and generally have the feel of experiments. While we share the author's disappointment that there are no better visual tools to explore and discover connections between publications, it is perfectly possible to mine the citation graph without the help of such tools. This undoubtedly explains why there are no tools (at least free tools) that have not made it past this stage. That said, if you feel like working on such a tool, please contact Jon Currey to discuss possible features.
+
 ### Research Paper Search and Recommendation Sites
 
 There are a number of websites which index, cross-reference and rank research papers. To get the most out of them, create an account and star/like/follow etc. people and papers you have found insightful or helpful. Then the site will recommend related work to you, often with uncanny accuracy! 
