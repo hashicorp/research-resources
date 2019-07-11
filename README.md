@@ -59,7 +59,7 @@ All of them sponsor and/or run a number of conferences on different areas of com
 
 ### Conference Tracking Sites
 
-There are many sites that use different methodologies to rank academic conferences (usually based on some measure of 'impact'), including computer science conferences. For example:
+There are many sites that use different methodologies to rank academic conferences (often based on some measure of 'impact'), including computer science conferences. For example:
 
 * [Top Computer Science Conferences](http://www.guide2research.com/topconf/)
 
@@ -67,11 +67,11 @@ Other sites focus on tracking the deadlines for submission to upcoming conferenc
 
 * [Computer Science CFPs](http://www.wikicfp.com/cfp/call?conference=computer%20science)
 
-Any of these can be used to discover conferences you were not previopusly aware of.
+Any of these can be used to discover conferences you were not previously aware of.
 
 ### Open Access
 
-Digitization has lowered the material cost of distributing academic papers, just has it has other forms of media. There is an active debate going on around the extent to which organizations can and should be allowed to charge for access to content. Conferences and the review process still have high costs. Should this be subsizided by charging for access to papers, or by other means? HashiCorp is committed to open access. Please educate yourself and make an informed decision regarding paying for access to academic content.
+Digitization has lowered the material cost of distributing academic papers, just has it has other forms of media. There is an active debate going on about the extent to which organizations can and should be allowed to charge for access to content. Conferences and the review process still have high costs. Should this be subsizided by charging for access to papers, or by other means? HashiCorp is committed to open access. Please educate yourself and make an informed decision regarding paying for access to academic content.
 
 * https://en.wikipedia.org/wiki/The_Cost_of_Knowledge
 * https://en.wikipedia.org/wiki/Serials_crisis
@@ -83,7 +83,7 @@ Digitization has lowered the material cost of distributing academic papers, just
 
 ### How to Read a Paper
 
-There are many good guides on how to read academic papers. You will develop your own methiod, but each of them can give you giid suggestions to try:
+There are many good guides on how to read academic papers. You will develop your own method, but each of them can give you good suggestions to try:
 
 * https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf
 * https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf
