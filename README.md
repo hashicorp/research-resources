@@ -1,16 +1,12 @@
-# Research Resources
+# Research Discovery
 
-A collection of sites, papers and other resources that we hope will be of use if you are beginning to look at academic research.
-
-## Research Discovery
-
-### Citations and References
+## Citations and References
 
 A citation is a mention of an external source in the body of a paper ('in-text' or 'inline'). Usually, the style of the citation is short, and may be enclosed in parentheses or square brackets. For example, a citation might look like this: [1] or this: (Kraiser, 2011). However, there are [many citation formats](https://connect.ebsco.com/s/article/Where-can-I-find-formatted-examples-of-different-Citation-styles?language=en_US), and for papers that have been published after passing through a submission process, the format used is usually dictated by the rules for submission of the organization through which the paper was published.
 
 A reference is a more full textual description of an external source, designed to allow the reader to obtain the referenced item as a primary source. References are typically collected in a list in a References or Bibliography section toward the end of the paper. Usually, every reference must have been cited somewhere in the paper, and usually every citation has a corresponding reference. However, there are many reference styles, and, for example in [APA Style](https://apastyle.apa.org/), cited personal correspondence that was private and is not accessible to the reader does not need a corresponding reference. The reference style is typically defined as part of the citation style.
 
-### The Citation Graph
+## The Citation Graph
 
 Irrespective of their format, citations and/or references act as directed edges in a vast knowledge graph, known as The Citation Graph. In this context, work A is said to cite work B, if work A contains a citation or reference to paper B. The citation graph is a directed graph, since the act of work A citing work B does not imply that work B cites work A. i.e. citation is an asymmetric relation between works. 
 
@@ -18,7 +14,7 @@ The citation graph is for the most part acyclic. Because some publication proces
 
 The Citation Graph has been called "[one of humankind's most important intellectual achievements](https://boingboing.net/2018/04/14/open-graphs.html)" (by Dario Taraborelli (@readermeter), the Director of Research at the @Wikimedia Foundation).
 
-### Citation Graph Visualization
+## Citation Graph Visualization
 
 There are a number of free tools that can visualize portions of the citation graph in different ways:
 
@@ -26,7 +22,7 @@ There are a number of free tools that can visualize portions of the citation gra
 
 They are, however, in various states of disrepair, and generally have the feel of experiments. While we share the author's disappointment that there are no better visual tools to explore and discover connections between publications, it is perfectly possible to mine the citation graph without the help of such tools. This undoubtedly explains why there are no tools (at least free tools) that have not made it past this stage. That said, if you feel like working on such a tool, please contact Jon Currey to discuss possible features.
 
-### Research Paper Search and Recommendation Sites
+## Research Paper Search and Recommendation Sites
 
 There are a number of websites which index, cross-reference and rank research papers. To get the most out of them, create an account and star/like/follow etc. people and papers you have found insightful or helpful. Then the site will recommend related work to you, often with uncanny accuracy! 
 
@@ -37,7 +33,7 @@ Some of the best:
 * http://www.arxiv-sanity.com/
 * https://www.researchgate.net/
 
-### Curated Research Discovery and Discussion
+## Curated Research Discovery and Discussion
 
 There are many academics, engineers and other interested individuals who publish personal selections of research that are relevant to their specialism or interests. Some of the ones HashiCorp consults most frequently are:
 
@@ -54,7 +50,7 @@ You can also find lists of papers relevant to a topic by doing a web search for 
 
 There is even a [website that curates lists of bibliopgraphies](https://liinwww.ira.uka.de/bibliography/index.html) by research topic.
 
-### Associations and Professional Bodies
+## Associations and Professional Bodies
 
 * ACM
   * [Preferred Employer Program](https://www.acm.org/membership/preferred-employer) [Current members](https://www.acm.org/membership/preferred-employers-list)
@@ -65,7 +61,7 @@ There is even a [website that curates lists of bibliopgraphies](https://liinwww.
 
 All of them sponsor and/or run a number of conferences on different areas of computer science.
 
-### Conference Tracking Sites
+## Conference Tracking Sites
 
 There are many sites that use different methodologies to rank academic conferences (often based on some measure of 'impact'), including computer science conferences. For example:
 
@@ -77,7 +73,7 @@ Other sites focus on tracking the deadlines for submission to upcoming conferenc
 
 Any of these can be used to discover conferences you were not previously aware of.
 
-### Open Access
+## Open Access
 
 Digitization has lowered the material cost of distributing academic papers, just has it has other forms of media. There is an active debate going on about the extent to which organizations can and should be allowed to charge for access to content. Conferences and the review process still have high costs. Should this be subsizided by charging for access to papers, or by other means? HashiCorp is committed to open access. Please educate yourself and make an informed decision regarding paying for access to academic content.
 
@@ -87,20 +83,20 @@ Digitization has lowered the material cost of distributing academic papers, just
 * https://www.theguardian.com/science/political-science/2018/jun/29/elsevier-are-corrupting-open-science-in-europe
 * https://www.enago.com/academy/move-boycott-elsevier-journals-deal-near-dead/
 
-## Reading and Evaluating Research
+# Reading and Evaluating Research
 
-### How to Read a Paper
+## How to Read a Paper
 
-There are many good guides on how to read academic papers. You will develop your own method, but each of them can give you good suggestions to try:
+There are many good guides on how to read academic papers. You will develop your own method, but each of them can give you good suggestions to try. Some good places to start:
 
 * https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf
 * https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf
 
-Advice on how to write a good paper also gives you insight into how to read a paper:
+Advice on how to write a good paper also gives you insight into how to read (and evaluate) a paper:
 
 * [How (and How Not) to Write a Good Systems Paper](http://msrsvc.org/roylevin/How%20(and%20How%20Not)%20to%20Write%20a%20Good%20Systems%20Paper.htm)
 
-### Known Dangers and Biases (aka Here Be Dragons)
+## Known Dangers and Biases (aka Here Be Dragons)
 
 * Mistaking correlation for causality
   * [Chocolate Consumption, Cognitive Function,
@@ -112,7 +108,7 @@ and Nobel Laureates](http://www.biostat.jhsph.edu/courses/bio621/misc/Chocolate%
 * Fixating on relative improvements
   * [Scalability! But at what COST?](https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf) [TMP](https://blog.acolyer.org/2015/06/05/scalability-but-at-what-cost/)
 
-### Places to Discuss Research
+## Places to Discuss Research
 
 In Real Life
 * [Papers We Love](https://paperswelove.org/)
@@ -122,13 +118,13 @@ In Real Life
 On-Line
 * [Dist Syst Slack](https://www.the-paper-trail.org/page/dist-sys-slack/)
 
-## Keeping Track of It All
+# Keeping Track of It All
 
-### Techniques
+## Techniques
 
 * [Bill Gates on how to remember what you read](https://www.cnbc.com/2019/03/21/how-bill-gates-remembers-what-he-reads.html)
 
-### Tools
+## Tools
 
 Tools are very personal, and actually not the key issue. However, some tools offer some nice features.
 
@@ -145,7 +141,7 @@ Tools are very personal, and actually not the key issue. However, some tools off
 * Papers app
 * https://orgmode.org/
 
-## HashiCorp's Experience Applying Research to Production
+# HashiCorp's Experience Applying Research to Production
 
 * [Armon Dadgar at PWL SF on Vivaldi: Decentralized Network Coordinate System](https://youtu.be/AszPoJjWK9Q?)
 * [Preventing Security Incidents By Automating Policy Optimization](https://youtu.be/C7AHGPxkMh0)
