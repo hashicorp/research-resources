@@ -1,6 +1,4 @@
-# Research Discovery
-
-## Citations and References
+# Citations and References
 
 A citation is a mention of an external source in the body of a paper ('in-text' or 'inline'). This is a very common citation style: [1] This is another: (Kraiser, 2011). However, there are [many citation styles](https://connect.ebsco.com/s/article/Where-can-I-find-formatted-examples-of-different-Citation-styles?language=en_US), and for a published paper, its citation style is usually dictated by the publisher.
 
@@ -21,6 +19,8 @@ There are a number of free tools that can visualize portions of the citation gra
 * https://proto-knowledge.blogspot.com/2015/02/tools-to-visualize-connections-between.html
 
 They are, however, in various states of disrepair, and generally have the feel of experiments. While we share the author's disappointment that there are no better visual tools to explore and discover connections between publications, it is perfectly possible to mine the citation graph without the help of such tools. This undoubtedly explains why there are no tools (at least free tools) that have not made it past this stage. That said, if you feel like working on such a tool, please contact Jon Currey to discuss possible features.
+
+# Research Discovery
 
 ## Research Paper Search and Recommendation Sites
 
@@ -45,6 +45,7 @@ There are many academics, engineers and other interested individuals who publish
   * [Partial collection of videos](https://www.youtube.com/user/PapersWeLove). 
   * Follow [PWL on Twitter](https://twitter.com/papers_we_love?lang=en) and check the Meetup histories of specific chapters to see if there is a video of a talk on paper you find in the repo that isn't found by the above methods.
 * [The Paper Trail](https://www.the-paper-trail.org/)
+* [My Biased Coin](http://mybiasedcoin.blogspot.com/)
 
 You can also find lists of papers relevant to a topic by doing a web search for the topic (or combinations of key words releated to the topic) and adding "bibliograpy", "reading list" or "survey" to the end. Many of these bibliographies and surverys were themselves published via peer-reviewed publication, which means multiple reviewers should have reviewed them and decided they are a decent representation of work in that space.
 
@@ -147,3 +148,23 @@ Tools are very personal, and actually not the key issue. However, some tools off
 * [Preventing Security Incidents By Automating Policy Optimization](https://youtu.be/C7AHGPxkMh0)
 * [Using Randomized Communication for Robust, Scalable Systems](https://www.infoq.com/presentations/randomized-communication-hashicorp-consul/)
 * [From the first photocopy to modern failure detection in distributed systems](https://youtu.be/4moHicXPXfA)
+
+# Backlog
+
+A [backlog](https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog) is a great way to decompose a large, daunting project into small, achievable tasks. This technique can be applied to the discovery and evaluation of academic research. We will use one for this resource too.
+
+The current backlog of resources to evaluate and potentiall integrate into this document:
+
+* https://arxiv.org/pdf/1310.8224.pdf
+* https://tljh.jupyter.org/en/latest/
+* http://www.sigcomm.org/ccr/drupal/
+* https://queue.acm.org/
+* https://www.enago.com/academy/why-researchers-should-use-pre-print-repositories/
+* https://joy.recurse.com/
+* https://www.recurse.com/blog/147-meet-rcs-first-fellows
+* https://github.com/anniecherk/sweetpea
+* https://twitter.com/emeryberger
+* https://www.sigarch.org/a-checklist-manifesto-for-empirical-evaluation-a-preemptive-strike-against-a-replication-crisis-in-computer-science/
+* https://www.sigplan.org/Resources/EmpiricalEvaluation/
+* https://www.artifact-eval.org/
+* 
