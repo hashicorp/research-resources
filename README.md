@@ -168,3 +168,9 @@ The current backlog of resources to evaluate and potentiall integrate into this 
 * https://www.sigplan.org/Resources/EmpiricalEvaluation/
 * https://www.artifact-eval.org/
 * https://arstechnica.com/science/2019/07/study-playing-minecraft-could-boost-your-creativity-with-some-caveats/
+* https://dl.acm.org/citation.cfm?id=3097767
+  * https://vaibhavbajpai.com/documents/papers/proceedings/reproducibility-sigcomm-workshop-2017.pdf
+* http://issi-society.org/media/1325/reproducibility_schneider.pdf
+* https://www.frontiersin.org/articles/10.3389/fninf.2018.00020/full
+* https://www.nature.com/collections/prbfkwmwvz
+
