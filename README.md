@@ -167,4 +167,4 @@ The current backlog of resources to evaluate and potentiall integrate into this 
 * https://www.sigarch.org/a-checklist-manifesto-for-empirical-evaluation-a-preemptive-strike-against-a-replication-crisis-in-computer-science/
 * https://www.sigplan.org/Resources/EmpiricalEvaluation/
 * https://www.artifact-eval.org/
-* 
+* https://arstechnica.com/science/2019/07/study-playing-minecraft-could-boost-your-creativity-with-some-caveats/
