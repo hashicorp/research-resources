@@ -18,7 +18,9 @@ There are a number of free tools that can visualize portions of the citation gra
 
 * https://proto-knowledge.blogspot.com/2015/02/tools-to-visualize-connections-between.html
 
-They are, however, in various states of disrepair, and generally have the feel of experiments. While we share the author's disappointment that there are no better visual tools to explore and discover connections between publications, it is perfectly possible to mine the citation graph without the help of such tools. This undoubtedly explains why there are no tools (at least free tools) that have not made it past this stage. That said, if you feel like working on such a tool, please contact Jon Currey to discuss possible features.
+They are, however, in various states of disrepair, and generally have the feel of experiments. While we share the author's disappointment that there are no better visual tools to explore and discover connections between publications, it is perfectly possible to mine the citation graph without the help of such tools. This undoubtedly explains why there are no tools (at least free tools) that have made it past this stage.
+
+That said, if you feel like working on such a tool, please contact Jon Currey to discuss possible features.
 
 # Research Discovery
 
