@@ -175,4 +175,6 @@ The current backlog of resources to evaluate and potentiall integrate into this 
 * http://issi-society.org/media/1325/reproducibility_schneider.pdf
 * https://www.frontiersin.org/articles/10.3389/fninf.2018.00020/full
 * https://www.nature.com/collections/prbfkwmwvz
+* https://www.usenix.org/conferences/best-papers
+
 
