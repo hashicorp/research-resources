@@ -35,6 +35,8 @@ Some of the best:
 * http://www.arxiv-sanity.com/
 * https://www.researchgate.net/
 
+Even without creating an acccount, Google Scholar has some very useful features. Click on the title of a paper and look for a link of the form "Cited by nnn" where nnn is the number of papers that cite this paper. Clicking on that link will bring up links to each of those papers. You can sort the papers by the date of their publication, or by Google's assessment of their relevance. You can also search just within these publications, to further narrow your search.
+
 ## Curated Research Discovery and Discussion
 
 There are many academics, engineers and other interested individuals who publish personal selections of research that are relevant to their specialism or interests. Some of the ones HashiCorp consults most frequently are:
@@ -48,6 +50,8 @@ There are many academics, engineers and other interested individuals who publish
   * Follow [PWL on Twitter](https://twitter.com/papers_we_love?lang=en) and check the Meetup histories of specific chapters to see if there is a video of a talk on paper you find in the repo that isn't found by the above methods.
 * [The Paper Trail](https://www.the-paper-trail.org/)
 * [My Biased Coin](http://mybiasedcoin.blogspot.com/)
+* [ACM Queue](https://queue.acm.org/)
+* [USENIX Conference Bests Papers](https://www.usenix.org/conferences/best-papers)
 
 You can also find lists of papers relevant to a topic by doing a web search for the topic (or combinations of key words releated to the topic) and adding "bibliograpy", "reading list" or "survey" to the end. Many of these bibliographies and surverys were themselves published via peer-reviewed publication, which means multiple reviewers should have reviewed them and decided they are a decent representation of work in that space.
 
@@ -110,6 +114,12 @@ and Nobel Laureates](http://www.biostat.jhsph.edu/courses/bio621/misc/Chocolate%
     * [Another good summary](https://bigthink.com/errors-we-live-by/judea-pearls-the-book-of-why-brings-news-of-a-new-science-of-causes)
 * Fixating on relative improvements
   * [Scalability! But at what COST?](https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf) [TMP](https://blog.acolyer.org/2015/06/05/scalability-but-at-what-cost/)
+* Lack of reproducibility
+  * This issue is wide-spread in science. Luckily many individuals and professional bodies are committed to addressing it. DevOps principles and tools, such as immutabiliy through versioning, can and should be part of the solution :-)
+  * [A paper framing the problem in Computer Science](https://vaibhavbajpai.com/documents/papers/proceedings/reproducibility-sigcomm-workshop-2017.pdf)
+  * [ACM SigArch's Reproducibility Manifesto](https://www.sigarch.org/a-checklist-manifesto-for-empirical-evaluation-a-preemptive-strike-against-a-replication-crisis-in-computer-science/)
+  * [ACM SigPlan's Empirical Evaluation Guidelines](https://www.sigplan.org/Resources/EmpiricalEvaluation/)
+  * [Cross-Conference Artifcat Evaluation](https://www.artifact-eval.org/)
 
 ## Places to Discuss Research
 
@@ -117,6 +127,8 @@ In Real Life
 * [Papers We Love](https://paperswelove.org/)
   * [List of local chapters that meet in person](https://github.com/papers-we-love/papers-we-love/blob/master/README.md)
   * They have a conference too. [PWLConf](https://pwlconf.org/)
+* [The Recurse Center (NYC)](https://www.recurse.com/)
+  * Primarily a location for educational programming retreats, they do periodicalyy host talks and other events. Check them out on Twitter [@recursecenter](https://twitter.com/recursecenter) and/or sign up for email notification.
 
 On-Line
 * [Dist Syst Slack](https://www.the-paper-trail.org/page/dist-sys-slack/)
@@ -143,6 +155,11 @@ Tools are very personal, and actually not the key issue. However, some tools off
   * Indexes everything. Shows top 3 related items from your personal corpus each time you clip something.
 * Papers app
 * https://orgmode.org/
+* Jupyter Notebooks (formerly IPython Notebooks)
+  * No longer restricted to Python, these allow you to embed experiments with notes. An increasing number of cloud providers offer them for free. Or you can host your own.
+  * [JupyterHub](https://tljh.jupyter.org/en/latest/) For setting up your own installation in a public cloud or elsewhere.
+  * [Azure Notebooks](https://notebooks.azure.com/)
+  * [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb)
 
 # HashiCorp's Experience Applying Research to Production
 
@@ -158,20 +175,9 @@ A [backlog](https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_b
 The current backlog of resources to evaluate and potentiall integrate into this document:
 
 * https://arxiv.org/pdf/1310.8224.pdf
-* https://tljh.jupyter.org/en/latest/
-* http://www.sigcomm.org/ccr/drupal/
-* https://queue.acm.org/
-* https://www.enago.com/academy/why-researchers-should-use-pre-print-repositories/
-* https://joy.recurse.com/
-* https://www.recurse.com/blog/147-meet-rcs-first-fellows
 * https://github.com/anniecherk/sweetpea
 * https://twitter.com/emeryberger
-* https://www.sigarch.org/a-checklist-manifesto-for-empirical-evaluation-a-preemptive-strike-against-a-replication-crisis-in-computer-science/
-* https://www.sigplan.org/Resources/EmpiricalEvaluation/
-* https://www.artifact-eval.org/
 * https://arstechnica.com/science/2019/07/study-playing-minecraft-could-boost-your-creativity-with-some-caveats/
-* https://dl.acm.org/citation.cfm?id=3097767
-  * https://vaibhavbajpai.com/documents/papers/proceedings/reproducibility-sigcomm-workshop-2017.pdf
 * http://issi-society.org/media/1325/reproducibility_schneider.pdf
 * https://www.frontiersin.org/articles/10.3389/fninf.2018.00020/full
 * https://www.nature.com/collections/prbfkwmwvz
